@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">👋 Hi, I'm a Web Developer!  
+💻 I build modern and responsive web applications.  
+🚀 Passionate about JavaScript, React, and UI/UX.  
+
+📌 Let's code something awesome!  
+</h2>
 
 ###
 
