@@ -1,9 +1,12 @@
-<h2 align="left">👋 Hi, I'm a Web Developer! <br>  
+<h2 align="left">👋 Hi, I'm a Web Developer!
+</h2>
+<p>
+   <br>  
 💻 I build modern and responsive web applications.<br>  
 🚀 Passionate about JavaScript, React, and UI/UX.  
 <br><br>
 📌 Let's code something awesome!  
-</h2>
+</p>
 
 ###
 
