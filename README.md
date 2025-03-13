@@ -1,7 +1,7 @@
-<h2 align="left">👋 Hi, I'm a Web Developer!  
-💻 I build modern and responsive web applications.  
+<h2 align="left">👋 Hi, I'm a Web Developer! <br>  
+💻 I build modern and responsive web applications.<br>  
 🚀 Passionate about JavaScript, React, and UI/UX.  
-
+<br><br>
 📌 Let's code something awesome!  
 </h2>
 
